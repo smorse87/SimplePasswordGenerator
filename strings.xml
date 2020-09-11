@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Password Generator</string>
+    <string name="password_text">This is where the password will appear.</string>
+    <string name="password_extra">Press the button to create an alliterative password.</string>
+    <string name="button_text">Generate Password</string>
+    <string name="error_text">~</string>
+</resources>
